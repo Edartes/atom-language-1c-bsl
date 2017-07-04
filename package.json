@@ -19,7 +19,7 @@
     "atom-package-deps": "^4.3.1"
   },
   "devDependencies": {
-    "coffeelint": "^1.16.0"
+    "coffeelint": "^1.16.1"
   },
   "package-deps": [
     "linter"
